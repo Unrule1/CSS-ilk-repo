@@ -1,0 +1,25 @@
+body {
+    font-family: 'Fuzzy Bubbles', cursive;
+    background-color: skyblue;
+    list-style-position: inside;
+}
+a {
+    color: darkred;
+}
+p {
+    font-size: 14px;
+    color: darkblue;
+}
+h1 {
+    color: brown;
+    font-size: 50px;
+}
+h2 {
+    color: peru;
+    font-size: 40px;
+}
+
+ul {
+    color: rgb(42, 38, 38);
+    font-style: italic;
+}
